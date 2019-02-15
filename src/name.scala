@@ -4,7 +4,8 @@ object name
   {
     println(printName("Jason"))
     println(printName("Michael"))
-    println(printName("Justin"))
+    println(printName("Jung Gi"))
+
   }
   def printName(name: String): String =
   {
